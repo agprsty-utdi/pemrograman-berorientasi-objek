@@ -14,5 +14,7 @@ Repository ini digunakan untuk keperluan publikasi terhadap source code pada mat
 ### Running
 
 > Klik tombol run/debug
+or
+> javac filename.java
 
 `#HappyCoding :)`
